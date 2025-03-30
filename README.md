@@ -12,5 +12,5 @@ Both the classification tasks are performed on the [Grocery Store Dataset](https
 Models definition, training and results are available in the file `assignment2.ipynb`
 
 # Authors
-* Fabio Giordana
+* [Fabio Giordana](https://github.com/FabioGiordana)
 * Abdul Moqueet
